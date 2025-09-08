@@ -56,5 +56,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-**Made something sweet with this code? Tag me on [Instagram]()!**  
-**⭐ Star this repo if you’d code for someone special!**
+
